@@ -1,0 +1,13 @@
+path: ../TS_yolo/dataset/random/bins/
+train: train/images/ # train images (relative to 'path') 128 images
+val: val/images/ # val images (relative to 'path') 128 images
+
+names:
+    0: person
+    1: car
+    2: bicycle
+    3: motorcycle
+    4: bus
+    5: truck
+    6: traffic_light
+    7: stop_sign

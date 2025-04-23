@@ -1,0 +1,6 @@
+path: ../TS_yolo/dataset_1/glare/e2f_gray_trained/
+train: train/images/ # train images (relative to 'path') 128 images
+val: val/images/ # val images (relative to 'path') 128 images
+
+names:
+    0: car
