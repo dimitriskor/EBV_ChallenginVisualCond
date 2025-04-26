@@ -1,0 +1,11 @@
+[run]
+branch = True
+omit =
+    norse/benchmark/*
+    norse/dataset/*
+    norse/task/*
+    norse/torch/utils/*
+    publish/*
+    */test/*
+    */__init__.py
+    setup.py
